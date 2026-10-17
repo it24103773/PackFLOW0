@@ -1,0 +1,37 @@
+[ {
+  "id" : 4,
+  "customerName" : "sakindu alwis",
+  "customerEmail" : "sakindu@gmail.com",
+  "subject" : "good service",
+  "message" : "good product",
+  "rating" : 5,
+  "status" : "Responded",
+  "adminResponse" : "thank you",
+  "respondedBy" : "Senura Perera (System Administrator)",
+  "respondedAt" : "2026-10-06T17:45:19.0201441",
+  "createdAt" : "2026-10-06T17:44:59.9825412"
+}, {
+  "id" : 3,
+  "customerName" : "Olini Manasha Weerawardhana",
+  "customerEmail" : "olini@gmail.com",
+  "subject" : "corrugated box order",
+  "message" : "good service .recommended",
+  "rating" : 5,
+  "status" : "Responded",
+  "adminResponse" : "Thank you madam.Pleasure to service you",
+  "respondedBy" : "Senura Perera (System Administrator)",
+  "respondedAt" : "2026-10-04T13:45:07.7237955",
+  "createdAt" : "2026-10-04T13:28:37.6647052"
+}, {
+  "id" : 1,
+  "customerName" : "Senura Perera",
+  "customerEmail" : "senuraperera@packflow.com",
+  "subject" : "Great Corrugated Box Compression Quality",
+  "message" : "The double wall corrugated boxes delivered last week were exceptional. Burst strength matched specs perfectly!",
+  "rating" : 5,
+  "status" : "Responded",
+  "adminResponse" : "Thank you Senura! Glad to hear our quality inspection met your expectations. We look forward to your next order.",
+  "respondedBy" : "System Administrator",
+  "respondedAt" : "2026-10-03T13:11:59.4897774",
+  "createdAt" : "2026-10-02T13:11:59.4897774"
+} ]

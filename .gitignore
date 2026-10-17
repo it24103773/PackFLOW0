@@ -1,0 +1,39 @@
+# Java & Maven
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Node & Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.npm/
+
+# Local JDKs and Runtimes
+oracleJdk*/
+jdk*/
+
+# Logs and Crash Dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS and Editor Files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Environment variables
+.env
+.env.local
+.env.*.local

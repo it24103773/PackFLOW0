@@ -1,0 +1,28 @@
+[ {
+  "id" : 1,
+  "name" : "Heavy Duty Corrugated Shipping Box",
+  "sku" : "PROD-BOX-001",
+  "packagingType" : "Corrugated Box",
+  "dimensions" : "400 x 300 x 250 mm",
+  "material" : "Kraft Double Wall B-Flute",
+  "status" : "Active",
+  "createdAt" : "2026-09-06T17:42:45.9658877"
+}, {
+  "id" : 3,
+  "name" : "Luxury Rigid Presentation Box with Magnetic Closure",
+  "sku" : "PROD-RIGID-003",
+  "packagingType" : "Rigid Box",
+  "dimensions" : "250 x 200 x 80 mm",
+  "material" : "1200 GSM Greyboard + Matte Laminate",
+  "status" : "Active",
+  "createdAt" : "2026-09-06T17:42:45.9658877"
+}, {
+  "id" : 4,
+  "name" : "Barrier Foil Sealed Flexible Pouch",
+  "sku" : "PROD-POUCH-004",
+  "packagingType" : "Flexible Pouch",
+  "dimensions" : "180 x 260 mm",
+  "material" : "PET/AL/PE Laminated Film",
+  "status" : "Active",
+  "createdAt" : "2026-09-06T17:42:45.9658877"
+} ]
